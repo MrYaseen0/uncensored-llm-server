@@ -39,6 +39,15 @@ to Kaggle and run it top to bottom.
 
 ## 📊 Model Response & Results
 
+### 🖥️ Running — what each step looks like
+
+![GPU check](docs/screenshots/running-gpu-check.png)
+![Download](docs/screenshots/running-download.png)
+![Speed test](docs/screenshots/running-speed-test.png)
+![Tunnel](docs/screenshots/running-tunnel.png)
+
+> Example outputs — format is exact, your run will show live values.
+
 ### ⚡ Speed benchmark (Kaggle 2x T4)
 
 <!-- ![Speed test](docs/screenshots/speed-test.png) -->
