@@ -1,3 +1,5 @@
+![uncensored-llm-server banner](docs/screenshots/banner.webp)
+
 # uncensored-llm-server
 
 Run **Qwen3.8-27B-Uncensored** (HauhauCS Aggressive) on **free Kaggle 2x Tesla T4 GPUs**
