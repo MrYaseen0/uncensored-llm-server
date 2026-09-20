@@ -35,11 +35,12 @@ to Kaggle and run it top to bottom.
 | `docs/FORGE-SETUP.md` | Forge Desktop connection settings |
 | `docs/TROUBLESHOOTING.md` | Common problems & fixes |
 
-## \U0001F4CA Model Response & Results
+## 📊 Model Response & Results
 
-### \u26A1 Speed benchmark (Kaggle 2x T4)
+### ⚡ Speed benchmark (Kaggle 2x T4)
 
-![Speed test](docs/screenshots/speed-test.png)
+<!-- ![Speed test](docs/screenshots/speed-test.png) -->
+> _Screenshot coming — run `scripts/07-speed-test.py` and share the output._
 
 Sample output format (run `scripts/07-speed-test.py` — your real numbers will show):
 
@@ -48,13 +49,15 @@ SPEED: 214 tokens / 7.6s = 28.2 tok/s
 (27B on 2x T4: 20-40 tok/s is normal.)
 ```
 
-### \U0001F4AC Sample uncensored response
+### 💬 Sample uncensored response
 
-![Sample response](docs/screenshots/sample-response.png)
+<!-- ![Sample response](docs/screenshots/sample-response.png) -->
+> _Screenshot coming — share any chat reply from the model._
 
-### \U0001F50C Forge Desktop connected
+### 🔌 Forge Desktop connected
 
-![Forge LIVE-OK](docs/screenshots/forge-connected.png)
+<!-- ![Forge LIVE-OK](docs/screenshots/forge-connected.png) -->
+> _Screenshot coming — share Forge's LIVE-OK diagnostics screen._
 
 > Screenshots: run the notebook/scripts, take screenshots of the speed-test cell,
 > a chat reply, and Forge's LIVE-OK diagnostics, then drop them in
